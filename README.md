@@ -1,2 +1,2 @@
 # UsingWxJSSDK
-如何使用微信JSSDK
+使用微信JSSDK示例
